@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Novella
-Because love isn't a swipe, it's a rhythm waiting to be felt..
+**Where Hearts Sync and Stories Begin**
 =======
 # Novella-App
 Where Hearts Sync and Stories Begin
